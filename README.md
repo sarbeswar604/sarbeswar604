@@ -70,84 +70,9 @@ Hello! I'm **Sarbeswar Mallick**, passionate about data analytics, uncovering pa
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 📂 Featured Projects
-
-Here are some project ideas to showcase your data analytics skills.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📈 Sales Data Analysis</h3>
-      <p align="center">
-        Analyze sales, revenue, profit, product performance, and regional trends using SQL and Power BI.
-      </p>
-      <p align="center">
-        <strong>Tools:</strong> SQL · Power BI · Excel
-      </p>
-      <p align="center">
-        <a href="https://github.com/sarbeswar604?tab=repositories">View Repositories</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐍 Exploratory Data Analysis</h3>
-      <p align="center">
-        Clean datasets, explore distributions, identify patterns, and visualize insights using Python.
-      </p>
-      <p align="center">
-        <strong>Tools:</strong> Python · Pandas · NumPy
-      </p>
-      <p align="center">
-        <a href="https://github.com/sarbeswar604?tab=repositories">View Repositories</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🗄️ SQL Business Analysis</h3>
-      <p align="center">
-        Answer business questions using joins, aggregations, subqueries, and window functions.
-      </p>
-      <p align="center">
-        <strong>Tools:</strong> MySQL · SQL Server
-      </p>
-      <p align="center">
-        <a href="https://github.com/sarbeswar604?tab=repositories">View Repositories</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Interactive Dashboard</h3>
-      <p align="center">
-        Build an interactive dashboard to communicate KPIs, business trends, and actionable findings.
-      </p>
-      <p align="center">
-        <strong>Tools:</strong> Power BI · Excel
-      </p>
-      <p align="center">
-        <a href="https://github.com/sarbeswar604?tab=repositories">View Repositories</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-**Note:** These are suggested project themes, not claims that the projects are already completed. Replace the repository links with direct links when you publish your actual projects.
-
----
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarbeswar604&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbeswar604&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=sarbeswar604&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
