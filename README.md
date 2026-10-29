@@ -76,27 +76,6 @@ Hello! I'm **Sarbeswar Mallick**, passionate about data analytics, uncovering pa
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarbeswar604&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarbeswar604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies" />
-
-</div>
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
